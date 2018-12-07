@@ -1,0 +1,97 @@
+h1{
+	text-align: center;
+}
+body{
+	background-color: aqua;
+}
+
+table.x1 tr.x1 th.x1{
+	border :1px solid black;
+}
+
+
+table.x2{
+	border-collapse: collapse;
+}
+table.x2 tr.x2 th.x2{
+	border: 1px solid black;
+}
+
+
+table.x3{
+	width: 100%;
+}
+tr.x3 th.x3{
+	height: 50px;
+	border: 1px solid black;
+}
+
+
+tr.x4 th.x4{
+	text-align: left;
+	border: 1px solid black;
+}
+
+
+
+tr.x5 th.x5{
+	height: 50px;
+	vertical-align: bottom;
+	border: 1px solid black;
+}
+
+
+tr.x6 th.x6{
+	padding: 15px;
+	text-align: left;
+	border: 1px solid black;
+}
+
+
+tr.x7 th.x7{
+	border-bottom: 1px solid black;
+}
+
+
+
+tr.x8:hover{
+	background-color: black;
+	border: 1px solid black;
+}
+
+
+table.x9{
+	border-collapse: collapse;
+	width: 100px;
+}
+tr.x9 th.x9{
+	text-align: left;
+	padding: 8px;
+}
+tr.x9:nth-child(even) {
+	background-color: cadetblue;
+}
+th.x9{
+	background-color: #4caf50;
+	color: white;
+}
+
+
+tr.x10 th.x10{
+	background-color: #4caf50;
+	color: white;
+	border: 1px solid black;
+}
+
+
+table.x11{
+	border-collapse: collapse;
+	width: 100%
+}
+tr.x11 th.x11{
+	text-align: left;
+	padding: 8px;
+}
+tr.x11:nth-child(even){
+	background-color: #f2f2f2;
+}

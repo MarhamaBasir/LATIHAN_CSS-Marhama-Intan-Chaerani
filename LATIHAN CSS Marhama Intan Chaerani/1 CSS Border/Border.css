@@ -1,0 +1,144 @@
+h1{
+	text-align: center;}
+
+
+
+
+
+
+.d{
+	border-style: dotted;
+}
+.dashed{
+	border-style: dashed;
+}
+.solid{
+	border-style: solid;
+}
+.double{
+	border-style: double;
+}
+.groove{
+	border-style: groove;
+}
+.ridge{
+	border-style: ridge;
+}
+.inset{
+	border-style: inset;
+}
+.outset{
+	border-style: outset;
+}
+.none{
+	border-style: none;
+}
+.hidden{
+	border-style: hidden;
+}
+.mix{
+	border-style: dotted dashed solid double;
+}
+
+
+
+
+
+
+
+.one{
+	border-style: solid;
+	border-width: 5px;
+}
+.two{
+	border-style: solid;
+	border-width: medium;
+}
+.three{
+	border-style: dotted;
+	border-width: 2px;
+}
+.four{
+	border-style: dotted;
+	border-width: thick;
+}
+.five{
+	border-style: double;
+	border-width: 15px;
+}
+.six{
+	border-style: double;
+	border-width: thick;
+}
+.seven{
+	border-style: solid;
+	border-width: 12px 10px 4px 20px;
+}
+
+
+
+
+
+
+.satu{
+	border-style: solid;
+	border-color: green;
+}
+.dua{
+	border-style: solid;
+	border-color: red;
+}
+.tiga{
+	border-style: solid;
+	border-color: green red blue yellow;
+}
+
+
+
+
+
+
+
+.dbs{
+	border-top-style: dotted;
+	border-right-style: solid;
+	border-bottom-style: dotted;
+	border-left-style: solid;
+}
+
+
+
+
+
+
+
+.bottom{
+	border-bottom: solid;
+	border-color: red;
+	background-color: lightgrey;
+}
+.left{
+	border-left: 6px solid blue;
+	background-color: lightgrey;
+}
+
+
+
+
+
+
+.round1{
+	border:2px solid;
+}
+.round2{
+	border:2px solid;
+	border-radius: 5px;
+}
+.round3{
+	border:2px solid;
+	border-radius: 8px;
+}
+.round4{
+	border:2px solid;
+	border-radius: 12px;
+}

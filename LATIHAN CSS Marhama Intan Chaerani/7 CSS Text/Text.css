@@ -1,0 +1,91 @@
+body{
+	background-color: : lightblue;
+}
+h1{
+
+	color: green;
+}
+
+
+.ex1{
+	color: lavender;
+}
+
+
+.ex2{
+	text-align: center;
+}
+.eex2{
+	text-align: left;
+}
+.eeex2{
+	text-align: right;
+}
+.eeeex2{
+	text-align: justify;
+}
+
+
+.ex3{
+	text-decoration: overline;
+}
+.eex3{
+	text-decoration: line-through;
+}
+.eeex3{
+	text-decoration: underline;
+}
+
+
+.ex4{
+	text-transform: uppercase;
+}
+.eex4{
+	text-transform: lowercase;
+}
+.eeex4{
+	text-transform: capitalize;
+}
+
+
+.ex5{
+	text-indent: 500px;
+}
+
+
+.ex6{
+	letter-spacing: 3px;
+}
+.eex6{
+	letter-spacing: -3px;
+}
+.eeex{
+	letter-spacing: 5px;
+}
+
+
+
+.ex7{
+	line-height: 0.8;
+}
+.eex7{
+	line-height: 1.8;
+}
+
+
+.ex8{
+	direction: rtl;
+}
+
+
+.ex9{
+	word-spacing: 10px;
+}
+.eex9{
+	word-spacing: -5px;
+}
+
+
+.ex10{
+	text-shadow: 3px 2px red;
+}

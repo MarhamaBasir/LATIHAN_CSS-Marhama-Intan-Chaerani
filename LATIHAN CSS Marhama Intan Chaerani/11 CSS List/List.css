@@ -1,0 +1,54 @@
+body{
+	background-color: lavender;
+}
+h1{
+	text-align: center;
+}
+
+
+
+ul.x1{
+	list-style-type: circle;
+}
+ul.x2{
+	list-style-type: square;
+}
+ol.x3{
+	list-style-type: upper-roman;
+}
+ol.x4{
+	list-style-type: lower-alpha;
+}
+
+
+
+ul.x5{
+	list-style-position: outside;
+}
+ul.x6{
+	list-style-position: inside;
+}
+
+
+ul.x7{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+
+
+ul.x9{
+	list-style: square inside url("sqpurple.gif")
+}
+
+
+ol.x10{
+	background: #ff9999;
+	padding: 20px;
+}
+ol.x10 li.x10{
+	background: #ffe5e5;
+	padding: 5px;
+	margin-left: 35px;
+}

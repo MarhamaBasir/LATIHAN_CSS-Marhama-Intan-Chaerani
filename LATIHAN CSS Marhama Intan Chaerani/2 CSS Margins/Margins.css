@@ -1,0 +1,66 @@
+body{
+	background-color: cyan;
+}
+h1{
+	text-align: center;
+	border-bottom: 1px solid black;
+}
+
+
+
+
+
+
+p{
+	border :1px solid black;
+	margin-top: 100px;
+	margin-bottom: 100px;
+	margin-right: 150px;
+	margin-left: 80px;
+	background-color: darkcyan;
+}
+
+
+
+
+
+
+.nilai4{
+	border:1px solid black;
+	background-color: khaki;
+	margin: 25px 50px 75px 100px;
+}
+.nilai3{
+	boder:1px solid black;
+	background-color: khaki;
+	margin:25px 50px 75px;
+}
+.nilai2{
+	boder:1px solid black;
+	background-color: khaki;
+	margin:25px 50px;
+}
+.nilai1{
+	boder:1px solid black;
+	background-color: khaki;
+	margin:25px;
+}
+.auto{
+	border:1px solid black;
+	width: 300px;
+	margin: auto;
+	background-color: khaki;
+}
+div{
+	border:1px solid red;
+	margin-left: 100px;
+}
+.inherit{
+	margin-left: inherit;
+}
+
+
+
+
+
+ 	   

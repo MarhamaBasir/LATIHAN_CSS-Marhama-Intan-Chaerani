@@ -1,0 +1,52 @@
+h1{
+	text-align: center;
+}
+
+.x1{
+	font-family: "Times New Roman", Times, serif;
+}
+
+.x2{
+	font-style: normal;
+}
+.xx2{
+	font-style: italic;
+}
+.xxx2{
+	font-style: oblique;
+}
+
+
+.x3{
+	font-size: 100px;
+}
+.xx3{
+	font-size: 2.5em;
+}
+.xxx3{
+	font-size: 1.875em;
+}
+.xxxx3{
+	font-size: 0.875;
+}
+
+
+.x4{
+	font-weight: normal;
+}
+.xx4{
+	font-weight: bold;
+}
+
+
+.x5{
+	font-size: 10vw;
+}
+
+
+.x6{
+	font-variant: normal;
+}
+.xx6{
+	font-variant: small-caps;
+}

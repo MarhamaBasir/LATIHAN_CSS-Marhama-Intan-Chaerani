@@ -1,0 +1,58 @@
+h1{
+	text-align: center;
+}
+
+.a1:link{
+	color: red;
+}
+.a1:visited{
+	color: green;
+}
+.a1:hover{
+	color: hotpink;
+}
+.a1:active{
+	color: yellow:;
+}
+
+
+.a2:link{
+	text-decoration: none;
+}
+.a2:visited{
+	text-decoration: none;
+}
+.a2:hover{
+	text-decoration: underline;
+}
+.a2:active{
+	text-decoration: underline;
+}
+
+
+
+.a3:link{
+	background-color: yellow;
+}
+.a3:visited{
+	background-color: cyan;
+}
+.a3:hover{
+	background-color: lightgreen;
+}
+.a3:active{
+	background-color: hotpink;
+}
+
+
+
+.a4:link, .a4:visited{
+	background-color: lavender;
+	color: white;
+	padding: 14px 25px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+}
+.a4:hover, .a4:active{
+	background-color: red;

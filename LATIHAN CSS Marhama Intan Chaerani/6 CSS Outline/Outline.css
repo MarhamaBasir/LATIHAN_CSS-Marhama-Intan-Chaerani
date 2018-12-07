@@ -1,0 +1,102 @@
+h1{
+	text-align: center;
+}
+.p1{
+	outline-style: dotted;
+}
+.p2{
+	outline-style: dashed;
+}
+.p3{
+	outline-style:solid;
+}
+.p4{
+	outline-style:double;
+}
+.p5{
+	outline-style:groove;
+}
+.p6{
+	outline-style:ridge;
+}
+.p7{
+	outline-style: inset;
+}
+.p8{
+	outline-style:outset;
+}
+
+
+
+
+.pa{
+	border: 1px solid black;
+	outline-style: solid;
+	outline-color: blue;
+}
+.pb{
+	border: 1px solid black;
+	outline-style: double;
+	outline-color: red;
+}
+.pc{
+	border: 1px solid black;
+	outline-style: outset;
+	outline-color: yellow;
+}
+
+
+
+
+
+.pd{
+	border: 1px solid black;
+	outline-style: solid;
+	outline-color: blue;
+	outline-width: thin;
+}
+.pe{
+	border: 1px solid black;
+	outline-style: solid;
+	outline-color: blue;
+	outline-width: medium;
+}
+.pf{
+	border: 1px solid black;
+	outline-style: solid;
+	outline-color: blue;
+	outline-width: thick;
+}
+.pg{
+	border: 1px solid black;
+	outline-style: solid;
+	outline-color: blue;
+	outline-width: 4px;
+}
+
+
+
+
+
+.pp1{
+	outline: dashed;
+}
+.pp2{
+	outline: dotted red;
+}
+.pp3{
+	outline: 5px solid yellow
+}
+.pp4{
+	outline: thick ridge pink;
+}
+
+
+
+.Offsite{
+	margin: 30px;
+	background-color: yellow;
+	border: 1px solid black;
+	outline: 1px solid red;
+	outline-offset: 15px;
+}

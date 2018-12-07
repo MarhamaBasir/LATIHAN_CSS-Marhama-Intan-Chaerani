@@ -1,0 +1,49 @@
+h1{
+	text-align: center;
+}
+body{
+	background-color: aliceblue;
+}
+
+.individual{
+	padding-top: 50px;
+	padding-right: 30px;
+	padding-bottom: 50px;
+	padding-left: 80px;
+	border: 1px solid black;
+	background-color: lavender;
+}
+
+
+.nilai4{
+	padding: 25px 50px 75px 100px;
+	border: 1px solid black;
+	background-color: lavender;
+}
+.nilai3{
+	padding: 25px 50px 75px;
+	border: 1px solid black;
+	background-color: lavender;
+}
+.nilai2{
+	padding: 25px 50px;
+	border: 1px solid black;
+	background-color: lavender;
+}
+.nilai1{
+	padding: 25px;
+	border: 1px solid black;
+	background-color: lavender;
+}
+
+.ex1{
+	width: 300px;
+	padding: 25px;
+	background-color: lavender;
+}
+.ex2{
+	width: 300px;
+	padding: 25px;
+	box-sizing: border-box;
+	background-color: lavender;
+}
